@@ -10,12 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    //anya has made these edits
+    
     var currentWidth = CGFloat(10)
     var currentColor = UIColor.red
     var currentAlpha = CGFloat(10)
     var currentStroke: Stroke?
     
-    var redCount = 0
+    var redCount = 1
     var orangeCount = 0
     var yellowCount = 0
     var greenCount = 0
